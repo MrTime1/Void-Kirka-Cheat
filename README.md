@@ -5,3 +5,4 @@ Save and Enable – Click "File" > "Save" and ensure the script is enabled.
 Open Kirka.io – Launch the game in your browser.
 Press 'L' – Once in-game, press the 'L' key to open the UI.
 Enjoy! – The script is now active. Have fun!
+![Capture](https://github.com/user-attachments/assets/478dca39-1c0b-4c29-b065-841c3e1678ff)
